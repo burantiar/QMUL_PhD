@@ -15,7 +15,7 @@ This repository contains practical excercises for the "Deep learning" course, or
 
 (1) introduction to deep learning notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KoBppf5Yoqw5bnP_fqu-5d3_mdyxZh4t)
 
-(2) computer vision
+(2) computer vision (cnns) notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KoBppf5Yoqw5bnP_fqu-5d3_mdyxZh4t) 
 
 (3) NLP
 
