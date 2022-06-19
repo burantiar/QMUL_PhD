@@ -18,6 +18,10 @@ This repository contains practical excercises for the "Deep learning" course, or
 (2) computer vision (cnns) notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ByYlOLRiW-srA8niRY5kBFmHP-O5G7uM) 
 
 (3) NLP
+ - text vectorisation notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ymRF8-lDwiUqtVesTQ_5hsq5b92KWmzp)
+- RNN and LSTM notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ymRF8-lDwiUqtVesTQ_5hsq5b92KWmzp)
+
+
 
 (4) generative models
 
