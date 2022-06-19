@@ -19,7 +19,7 @@ This repository contains practical excercises for the "Deep learning" course, or
 
 (3) NLP
  - text vectorisation notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ymRF8-lDwiUqtVesTQ_5hsq5b92KWmzp)
-- RNN and LSTM notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ymRF8-lDwiUqtVesTQ_5hsq5b92KWmzp)
+- RNN and LSTM notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14-dYYYoHh4YMoLvTUuJxH6ZHoMLl2bW8)
 
 
 
