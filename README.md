@@ -6,6 +6,6 @@
 
 (3) Computer vision.
 
-(3) Natural Language processing. Transformers.
+(4) Natural Language processing. Transformers.
 
-(4) Reinforcement learning. 
+(5) Reinforcement learning. 
